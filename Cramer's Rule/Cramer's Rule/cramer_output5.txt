@@ -1,0 +1,7 @@
+Determinant A = -48.000000
+Determinant A1 = 12.000000
+Determinant A2 = 24.000000
+Determinant A3 = -108.000000
+x1 = -0.250000
+x2 = -0.500000
+x3 = 2.250000
