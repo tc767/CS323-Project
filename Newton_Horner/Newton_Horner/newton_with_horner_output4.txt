@@ -1,0 +1,1 @@
+The solution within the required error tolerance 0.010000 is r=0.366610
