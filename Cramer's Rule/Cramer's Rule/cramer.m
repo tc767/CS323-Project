@@ -104,4 +104,3 @@ for i = 1:matrix_size
     fprintf('x%d = %f\n',m,answer);
     m = m+1;
 end
-fclose(fileID);
